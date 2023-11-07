@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Thorfinn 13.21",
-	"newClientUrl" : "https://github.com/jordancristian1993/thorfinn_launcher/releases/download/v1.1/update-thorfinn-client.zip",
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/jordancristian1993/thorfinn_launcher/releases/download/v1.0/thorfinn-update.zip",
 	"clientExecutable": "client-thorfinn.exe"
 }
