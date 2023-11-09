@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.21.13839",
-	"launcherVersion": "1.0.1",
+	"launcherVersion": "1.0.2",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/jordancristian1993/thorfinn_launcher/releases/download/v1.0.1/thorfinn-update.zip",
+	"newClientUrl" : "https://github.com/jordancristian1993/thorfinn_launcher/releases/download/v1.0.2/thorfinn-update.zip",
 	"clientExecutable": "client-thorfinn.exe"
 }
